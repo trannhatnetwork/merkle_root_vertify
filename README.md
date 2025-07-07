@@ -76,7 +76,7 @@ Any tampering will:
 ## 📂 Solution
 
 > 🧩 The full code with step-by-step explanation is available here:  
-👉 [**View Solution**]([https://github.com/your-username/your-repo/blob/main/merkle_proof_demo.py](https://github.com/trannhatnetwork/merkle_root_vertify/blob/main/merkle_leaves.py))
+👉 [**View Solution**](https://github.com/trannhatnetwork/merkle_root_vertify/blob/main/merkle_leaves.py)
 
 ---
 
