@@ -1,6 +1,7 @@
 import hashlib
 
 def sha256(data):
+    # Hashes input data using SHA-256 and returns the hex digest
     if isinstance(data, str):
         data = data.encode('utf-8')
     return hashlib.sha256(data).hexdigest()
@@ -15,6 +16,7 @@ for i, h in enumerate(hashed_leaves):
     print(f"Leaf {i} {(leaves[i])}: {h}")
 '''
 def build_merkle_tree(hashed_leaves):
+    # Builds the Merkle tree and returns it as a list of levels
     tree = [hashed_leaves]
     while len(tree[0]) > 1:
         current_level = tree[0]
