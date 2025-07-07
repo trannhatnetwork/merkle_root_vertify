@@ -4,9 +4,8 @@
 
 ---
 
-![Merkle Tree](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hash_Tree.svg/400px-Hash_Tree.svg.png)
 
-![image](https://github.com/user-attachments/assets/ec33d926-f733-455d-8657-4d394230b4df)
+![Merkle Tree](https://github.com/user-attachments/assets/ec33d926-f733-455d-8657-4d394230b4df)
 
 <sup>Source: Wikipedia - Merkle Tree</sup>
 
